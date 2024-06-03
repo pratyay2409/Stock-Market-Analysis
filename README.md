@@ -8,3 +8,4 @@ Analysis is done in four different categories:-
 4) volume
 # Power BI Dasboard
 ![Screenshot (88)](https://github.com/pratyay2409/Stock-Market-Analysis/assets/92170433/945b4dcc-5e49-4a8e-8870-2354d868d7e1)
+![Screenshot (86)](https://github.com/pratyay2409/Stock-Market-Analysis/assets/92170433/2518300f-7ae2-4555-8a92-48fb8c920aa4)
